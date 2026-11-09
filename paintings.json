@@ -7,25 +7,34 @@
       "description": "I enjoy the process of just getting to observe something and recreating it, slowly, taking as much time as I need and going in as much detail as I'd like to. These works are either recreations of incredible artists I was inspired by, or photographers whose works I found to be great subjects. I'm incredibly grateful for the work they produced! Wherever possible, I've included the original inspirations along with my recreations.",
       "artworks": [
         {
-          "image": "images/hyperrealistic_7.jpg", "completed": "June 2023", "attribution": "https://www.nationalgeographic.com/magazine/article/these-see-through-frogs-are-full-of-surprises-feature"
+          "image": "images/hyperrealistic_7.jpg",
+          "completed": "June 2023",
+          "attribution": "https://www.nationalgeographic.com/magazine/article/these-see-through-frogs-are-full-of-surprises-feature"
         },
         {
-          "image": "images/hyperrealistic_2.jpg", "completed": "August 2019" 
+          "image": "images/hyperrealistic_2.jpg",
+          "completed": "August 2019"
         },
         {
-          "image": "images/hyperrealistic_3.jpg", "completed": "April 2020"
+          "image": "images/hyperrealistic_3.jpg",
+          "completed": "April 2020"
         },
         {
-          "image": "images/hyperrealistic_4.jpg", "completed": "April 2020", "attribution": "Janet Whittle's Floral Watercolour Guides"
+          "image": "images/hyperrealistic_4.jpg",
+          "completed": "April 2020",
+          "attribution": "Janet Whittle's Floral Watercolour Guides"
         },
         {
-          "image": "images/hyperrealistic_5.jpg", "completed": "October 2020"
+          "image": "images/hyperrealistic_5.jpg",
+          "completed": "October 2020"
         },
         {
-          "image": "images/hyperrealistic_6.jpg", "attribution": "November 2021"
+          "image": "images/hyperrealistic_6.jpg",
+          "completed": "November 2021"
         },
         {
-          "image": "images/hyperrealistic_1.jpg", "attribution": "March 2019"
+          "image": "images/hyperrealistic_1.jpg",
+          "completed": "March 2019"
         }
       ]
     },
@@ -52,7 +61,7 @@
         },
         {
           "image": "images/abstract_5.jpg",
-          "completed": "Febuary 2022"
+          "completed": "February 2022"
         }
       ]
     },
@@ -63,7 +72,7 @@
       "artworks": [
         {
           "image": "images/pottery_1.jpg",
-          "attribution": "July 2025"
+          "completed": "July 2025"
         },
         {
           "image": "images/pottery_2.jpg",
@@ -84,4 +93,3 @@
     }
   ]
 }
-
